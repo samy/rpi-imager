@@ -5,7 +5,7 @@
     <name>AppOptionsDialog</name>
     <message>
         <source>App Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de l&apos;application</translation>
     </message>
     <message>
         <source>Play sound when finished</source>
@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>Selecting the wrong drive will permanently erase data and can render your computer inoperable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le mauvais disque va effacer vos données de manière permanente et peut rendre votre ordinateur inutilisable.</translation>
     </message>
     <message>
         <source>System drives typically contain files essential to the operation of your computer, and may include your personal files (photos, videos, documents).</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les fichiers (*)</translation>
     </message>
     <message>
         <source>Image files (%1)</source>
@@ -140,47 +140,47 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcourir</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuer</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Retour</translation>
+        <translation>Retour</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminer</translation>
     </message>
     <message>
         <source>Select image</source>
-        <translation type="unfinished">Sélectionner l&apos;image</translation>
+        <translation>Sélectionner l&apos;image</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Mot de passe&#xa0;:</translation>
+        <translation>Mot de passe&#xa0;:</translation>
     </message>
     <message>
         <source>Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Appareil:</translation>
     </message>
     <message>
         <source>Storage:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stockage:</translation>
     </message>
     <message>
         <source>No device selected</source>
@@ -188,15 +188,15 @@
     </message>
     <message>
         <source>No image selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune image sélectionnée</translation>
     </message>
     <message>
         <source>No storage selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun stockage sélectionné</translation>
     </message>
     <message>
         <source>Hostname configured</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;hôte configuré</translation>
     </message>
     <message>
         <source>User account configured</source>
@@ -204,23 +204,23 @@
     </message>
     <message>
         <source>SSH enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH activé</translation>
     </message>
     <message>
         <source>Wi‑Fi configured</source>
-        <translation type="unfinished"></translation>
+        <translation>Wi-Fi configuré</translation>
     </message>
     <message>
         <source>Raspberry Pi Connect enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Raspberry Pi Connect activé</translation>
     </message>
     <message>
         <source>I2C enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I2C activé</translation>
     </message>
     <message>
         <source>SPI enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>SPI activé</translation>
     </message>
     <message>
         <source>USB Gadget mode enabled</source>
@@ -228,7 +228,7 @@
     </message>
     <message>
         <source>1-Wire enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>1-Wire activé</translation>
     </message>
     <message>
         <source>Serial configured</source>
@@ -236,14 +236,14 @@
     </message>
     <message>
         <source>Localisation configured</source>
-        <translation type="unfinished"></translation>
+        <translation>Localisation configurée</translation>
     </message>
 </context>
 <context>
     <name>ConfirmSystemDriveDialog</name>
     <message>
         <source>Size: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille: %1</translation>
     </message>
     <message>
         <source>Mounted as: %1</source>
@@ -263,11 +263,11 @@
     </message>
     <message>
         <source>CANCEL</source>
-        <translation type="unfinished">ANNULER</translation>
+        <translation>ANNULER</translation>
     </message>
     <message>
         <source>CONTINUE</source>
-        <translation type="unfinished">CONTINUER</translation>
+        <translation>CONTINUER</translation>
     </message>
     <message>
         <source>Cancel operation and return to storage selection to choose a different device</source>
@@ -317,7 +317,7 @@
     <name>DeviceSelectionStep</name>
     <message>
         <source>Select your Raspberry Pi device</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez votre appareil Raspberry Pi</translation>
     </message>
     <message>
         <source>Device selection list</source>
@@ -665,19 +665,19 @@
     </message>
     <message>
         <source>Preparing disk for formatting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Préparation du disque pour formatage...</translation>
     </message>
     <message>
         <source>Cleaning disk...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nettoyage du disque...</translation>
     </message>
     <message>
         <source>Writing filesystem...</source>
-        <translation type="unfinished"></translation>
+        <translation>Écriture du système de fichiers...</translation>
     </message>
     <message>
         <source>Cannot format device: insufficient permissions. Please run with elevated privileges (sudo).</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de formater le périphérique: permissions insuffisantes. Merci de le faire fonctionner en élevation de privilèges (sudo).</translation>
     </message>
 </context>
 <context>
@@ -864,19 +864,19 @@
     <name>ImTextField</name>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Couper</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout sélectionner</translation>
     </message>
 </context>
 <context>
@@ -993,19 +993,19 @@
     <name>LanguageSelectionStep</name>
     <message>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Langue:</translation>
     </message>
     <message>
         <source>Choose your language for Raspberry Pi Imager</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez votre langue pour Raspberry Pi Imager</translation>
     </message>
     <message>
         <source>Select the language for the Raspberry Pi Imager interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la langue à utiliser pour l&apos;interface de Raspberry Pi Imager</translation>
     </message>
 </context>
 <context>
@@ -1028,11 +1028,11 @@
     </message>
     <message>
         <source>Opening image file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouverture du fichier image...</translation>
     </message>
     <message>
         <source>Starting extraction...</source>
-        <translation type="unfinished"></translation>
+        <translation>Début de l&apos;extraction...</translation>
     </message>
 </context>
 <context>
@@ -1086,7 +1086,7 @@
     <name>MacFile</name>
     <message>
         <source>Raspberry Pi Imager needs to access the disk to write the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Raspberry Pi Imager a besoin d&apos;accèder au disque pour écrire l&apos;image.</translation>
     </message>
 </context>
 <context>
@@ -1256,7 +1256,9 @@
         <source>You are not running as Administrator.
 
 Please run as Administrator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n&apos;éxécutez pas l&apos;application en tant qu&apos;Administrateur.
+
+Merci de l&apos;éxécuter en tant qu&apos;Administrateur.</translation>
     </message>
     <message>
         <source>You are not running as root.
@@ -1558,19 +1560,19 @@ to show system drives.</source>
     <name>UpdateAvailableDialog</name>
     <message>
         <source>Update available</source>
-        <translation type="unfinished">Mise à jour disponible</translation>
+        <translation>Mise à jour disponible</translation>
     </message>
     <message>
         <source>There is a newer version of Imager available. Would you like to visit the website to download it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Une nouvelle version d&apos;Imager est disponible. Souhaitez-vous visiter le site Web pour la télécharger?</translation>
     </message>
     <message>
         <source>Continue using the current version of Raspberry Pi Imager</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuer en utilisant la version actuelle de Raspberry Pi Imager</translation>
     </message>
     <message>
         <source>Open the Raspberry Pi website in your browser to download the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez le site Web de Raspberry Pi dans votre navigateur pour télécharger la dernière version</translation>
     </message>
 </context>
 <context>
@@ -1882,11 +1884,11 @@ to show system drives.</source>
     <name>WizardStepBase</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished">Suivant</translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <source>Skip customisation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauter la personnalisation</translation>
     </message>
 </context>
 <context>
@@ -2048,11 +2050,11 @@ to show system drives.</source>
     </message>
     <message>
         <source>Raspberry Pi Imager is still busy. Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Raspberry Pi Imager est toujours en attente. Voulez-vous vraiment quitter ?</translation>
     </message>
     <message>
         <source>Storage device removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Périphérique de stockage retiré</translation>
     </message>
     <message>
         <source>The storage device was removed while writing, so the operation was cancelled. Please reinsert the device or select a different one to continue.</source>
